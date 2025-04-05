@@ -8,7 +8,7 @@ let’s deep dive into more detailed JWT vulnerability scenarios, including **re
 
 ---
 
-##  Deep JWT Vulnerability Scenarios (Advanced)
+## JWT Vulnerability Scenarios
 
 ---
 
