@@ -4,7 +4,7 @@ A JSON Web Token (JWT) vulnerability typically arises when developers incorrectl
 
 ---
 
-Perfect, Harsh — let’s deep dive into more detailed JWT vulnerability scenarios, including **realistic setups**, **detection methods**, **manual & automated exploitation**, and **lab creation tips** for each. This will help you master both offensive and defensive aspects of JWTs.
+let’s deep dive into more detailed JWT vulnerability scenarios, including **realistic setups**, **detection methods**, **manual & automated exploitation**, and **lab creation tips** for each. This will help you master both offensive and defensive aspects of JWTs.
 
 ---
 
